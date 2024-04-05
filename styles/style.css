@@ -37,4 +37,5 @@ table, td, th{
 
 input, label{
     display: block;
+    margin-top: .3em;
 }
